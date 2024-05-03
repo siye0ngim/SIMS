@@ -16,6 +16,7 @@ The Marching Squares algorithm is a computer graphics algorithm introduced in th
 - altitude on a topographical map
 - temperature on a temperature heat map
 - pressure on a contour map for a pressure field
+
 Marching squares takes a 2D image and an iso-value as input and outputs a list of vertices and edges that form closed polygons. The method consists of a number of steps: Applying a threshold using the iso-value. Creating a dual grid of cells with corners at the pixel centers.
 
 <img width="1260" alt="Screen Shot 2024-05-02 at 11 10 25 PM" src="https://github.com/siye0ngim/SIMS/assets/114831016/838cf1b8-e02e-418b-8e95-da539786438a">
